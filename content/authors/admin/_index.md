@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: My research interests include the history, philosophy and social studies of
   science education, as well as actual science education practice.
 interests:
-  - history and philosophy of science
+  - history and philosophy of science education
   - affective aspects of education
   - participation and success in STEM research
 social:
@@ -44,4 +44,4 @@ My undergraduate work in chemistry and graduate work in applied mathematics allo
 
 My primary interests are in the philosophy, history, and society studies of science education, primarily on how science education was, and could be, crafted.
 
-{{< icon name="download" pack="fas" >}} Access my [curriculum vitae](https://docs.google.com/document/d/e/2PACX-1vQnVC02sEId5J5ilGfycv5Kvt37hCHRaQDDMxnhhMiLvfFClP9OOCqIW4HoWGWY6lXCUd4__6A-U_0o/pub).
+{{< icon name="cv" pack="ai" >}} Access my [curriculum vitae](https://docs.google.com/document/d/e/2PACX-1vQnVC02sEId5J5ilGfycv5Kvt37hCHRaQDDMxnhhMiLvfFClP9OOCqIW4HoWGWY6lXCUd4__6A-U_0o/pub).
