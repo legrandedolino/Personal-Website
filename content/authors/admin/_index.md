@@ -15,7 +15,7 @@ social:
   - display:
       header: false
     link: twitter.com/dolinochem
-    icon_pack: fas
+    icon_pack: fab
     icon: twitter
   - icon: graduation-cap
     icon_pack: fas
