@@ -4,16 +4,24 @@ role: Research Unit Head
 avatar_filename: avatar.jpg
 bio: My research interests include the history, philosophy and social studies of
   science education, as well as actual science education practice.
-interests: []
+interests:
+  - history and philosophy of science
+  - affective aspects of education
+  - participation and success in STEM research
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+  - display:
+      header: false
+    link: twitter.com/dolinochem
+    icon_pack: fas
+    icon: twitter
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=IcLYkigAAAAJ
 organizations:
-  - name: Philippine Science High School Southern Mindanao Campus
+  - name: Philippine Science High School
     url: smc.pshs.edu.ph
 education:
   courses:
@@ -30,9 +38,10 @@ email: legrande.dolino@gmail.com
 superuser: true
 highlight_name: true
 ---
+I am currently a chemistry and research teacher at the Philippine Science High School Southern Mindanao Campus. As STEM teacher, I work to improve outcomes for student education in science through the development of instructional materials, methods, and curricula, mentoring of students/teachers, and implementation of research.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My undergraduate work in chemistry and graduate work in applied mathematics allow me to fill the specific niche of experimental design and analysis. A large aspect of my educational work involves improving outcomes of high school students in STEM research. In line with this, I founded [Tanim Talino](tanimtalino.org) as a consequence of the pandemic to bridge the gap in Filipino student preparedness for research.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My primary interests are in the philosophy, history, and society studies of science education, primarily on how science education was, and could be, crafted.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
