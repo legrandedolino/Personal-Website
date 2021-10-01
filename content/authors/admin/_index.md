@@ -14,7 +14,7 @@ social:
     link: /#contact
   - display:
       header: false
-    link: twitter.com/dolinochem
+    link: https://twitter.com/dolinochem
     icon_pack: fab
     icon: twitter
   - icon: graduation-cap
