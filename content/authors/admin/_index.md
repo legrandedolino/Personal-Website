@@ -6,7 +6,7 @@ bio: My research interests include the history, philosophy and social studies of
   science education, as well as actual science education practice.
 interests:
   - history and philosophy of science education
-  - affective aspects of education
+  - affective aspects of science education
   - participation and success in STEM research
 social:
   - icon: envelope
