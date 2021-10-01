@@ -38,10 +38,10 @@ email: legrande.dolino@gmail.com
 superuser: true
 highlight_name: true
 ---
-I am currently a chemistry and research teacher at the Philippine Science High School Southern Mindanao Campus. As STEM teacher, I work to improve outcomes for student education in science through the development of instructional materials, methods, and curricula, mentoring of students/teachers, and implementation of research.
+I am currently a chemistry and research teacher at Philippine Science High School Southern Mindanao Campus. As STEM teacher, I work to improve outcomes for student education in science through the development of instructional materials, methods and curricula, mentoring of students/teachers, and implementation of research.
 
 My undergraduate work in chemistry and graduate work in applied mathematics allow me to fill the specific niche of experimental design and analysis. A large aspect of my educational work involves improving outcomes of high school students in STEM research. In line with this, I founded [Tanim Talino](tanimtalino.org) as a consequence of the pandemic to bridge the gap in Filipino student preparedness for research.
 
 My primary interests are in the philosophy, history, and society studies of science education, primarily on how science education was, and could be, crafted.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Access my [curriculum vitae](https://docs.google.com/document/d/e/2PACX-1vQnVC02sEId5J5ilGfycv5Kvt37hCHRaQDDMxnhhMiLvfFClP9OOCqIW4HoWGWY6lXCUd4__6A-U_0o/pub).
