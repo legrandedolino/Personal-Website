@@ -2,8 +2,8 @@
 title: Le Grande O. Dolino
 role: Research Unit Head
 avatar_filename: avatar.jpg
-bio: My research interests include the history, philosophy and social studies of
-  science education, as well as actual science education practice.
+bio: My research interests include the history, philosophy, and social studies
+  of science education, and actual science education practice.
 interests:
   - history and philosophy of science education
   - affective aspects of science education
