@@ -30,7 +30,7 @@ education:
       year: 2020
     - course: MS Applied Mathematics
       institution: University of Southeastern Philippines
-      year: 2026
+      year: 2019
     - course: BS Chemistry
       institution: Ateneo de Davao University
       year: 2016
