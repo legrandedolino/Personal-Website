@@ -15,8 +15,6 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Doris Montecastro
-  - Antonio Basilio
 author_notes: []
 publication: In *Journal of Chemical Education*
 summary: ""
