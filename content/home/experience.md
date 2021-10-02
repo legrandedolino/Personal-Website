@@ -22,28 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Special Science Teacher
+    company: Philippine Science High School Southern Mindanao Campus
+    company_url: 'https://smc.pshs.edu.ph'
+    company_logo: pshs
+    location: Davao
+    date_start: '2018-08-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Currently teaching advanced chemistry subjects and advising student STEM research studies. Overseeing the proper implementation of the Research 2 curriculum by supervising research advisers across 91 Grade 11 students.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Laboratory Research Assistant
+    company: Ateneo de Davao University
+    company_url: 'https://addu.edu.ph'
+    company_logo: addu
+    location: Davao
+    date_start: '2016-10-01'
+    date_end: '2018-07-31'
+    description: Implemented institutional research partnering with local pineapple processing cooperative leading to a utility model. Instructed a Physical Chemistry laboratory course. Operated the Scanning Electron Microscope for student research and external clients.
 
 design:
   columns: '2'
