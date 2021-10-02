@@ -4,7 +4,7 @@ abstract: I am coordinating this regional competition for elementary students as
   Science and Technology Week.
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: I am coordinating this regional competition for elementary students as part of the Department of Science and Technology's celebration of the National Science and Technology Week.
 title: "NSTW Sci-Math Battle 2021: Region XI"
 location: Online
 date: 2021-10-11T05:00:00.000Z
@@ -17,11 +17,6 @@ authors: []
 url_video: ""
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
 links: []
 publishDate: 2017-01-01T00:00:00Z
 tags:
