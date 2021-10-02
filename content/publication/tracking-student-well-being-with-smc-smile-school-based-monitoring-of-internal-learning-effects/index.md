@@ -15,11 +15,11 @@ publication_types:
 authors:
   - admin
 author_notes: []
-publication: In *Philippine Science High School National Teachers Convention 2021*
+publication: Presented in *Philippine Science High School National Teachers Convention 2021*
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *Philippine Science High School National Teachers Convention 2021*
+publication_short: Presented in *Philippine Science High School National Teachers Convention 2021*
 url_source: ""
 url_video: ""
 title: Tracking student well-being with SMC-SMILE (School-based Monitoring of
