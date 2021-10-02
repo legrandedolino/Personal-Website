@@ -3,8 +3,7 @@ abstract: I presented and advertised the programs of Tanim Talino with the
   Network of ISEF Alumni Philippines to Filipino students across the country.
 slides: ""
 url_pdf: ""
-summary: I will be presenting my paper entitled “Analysis of Philippine STEM
-  Journals and Implications for High School Research During Remote Learning.”
+summary: I presented and advertised the programs of Tanim Talino with the Network of ISEF Alumni Philippines to Filipino students across the country.
 title: DepEd National Science and Techology Fair
 location: Online
 date: 2021-09-02T07:25:08.832Z
