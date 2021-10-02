@@ -22,19 +22,18 @@ twitter: ''
 
 email: legrande.dolino@gmail.com
 address:
-  street: Brgy. Santo Niño
+  street: Philippine Science High School Southern Mindanao Campus
   city: Davao
   postcode: '8000'
   country: Philippines
   country_code: PH
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
   - 'Weekdays 08:00 to 17:00'
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/dolinoche,'
+    link: 'https://twitter.com/dolinochem'
 
 # Site header
 
