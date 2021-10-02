@@ -30,10 +30,10 @@ url_source: ""
 url_video: ""
 title: Low-cost Recovery of Bromelain Solids from Industrial Pineapple Peel,
   Pulp, and Core Wastes Using Ethanolic Cashew Leaf Polyphenol
-doi: ""
+doi: https://philjournalsci.dost.gov.ph/images/pdf/pjs_pdf/vol149no3/low-cost_recovery_of_bromelain_solids_.pdf
 featured: false
 tags:
-  - HPS
+  - STEM
 projects: []
 image:
   caption: ""
