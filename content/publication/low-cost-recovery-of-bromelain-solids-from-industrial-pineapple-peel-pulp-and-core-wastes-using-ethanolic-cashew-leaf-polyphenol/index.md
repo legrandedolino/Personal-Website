@@ -13,7 +13,7 @@ abstract: "Bromelain, a valuable protease present in all parts of the pineapple
   of benefit to smaller pineapple producers who could profit from obtaining an
   otherwise expensive material using their production’s waste."
 slides: ""
-url_pdf: ""
+url_pdf: "https://philjournalsci.dost.gov.ph/images/pdf/pjs_pdf/vol149no3/low-cost_recovery_of_bromelain_solids_.pdf"
 publication_types:
   - "2"
 authors:
@@ -30,7 +30,7 @@ url_source: ""
 url_video: ""
 title: Low-cost Recovery of Bromelain Solids from Industrial Pineapple Peel,
   Pulp, and Core Wastes Using Ethanolic Cashew Leaf Polyphenol
-doi: https://philjournalsci.dost.gov.ph/images/pdf/pjs_pdf/vol149no3/low-cost_recovery_of_bromelain_solids_.pdf
+doi: 
 featured: false
 tags:
   - STEM
