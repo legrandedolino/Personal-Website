@@ -1,3 +1,5 @@
+---
+
 widget: featured
 headless: true
 
