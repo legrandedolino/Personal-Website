@@ -27,8 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: HPS/STS
+    tag: HPS
+  - name: STEMEd
+    tag: STEMEd
+  - name: STEM
+    tag: STEM
   - name: Other
     tag: Demo
 
