@@ -32,8 +32,7 @@ title: Low-cost Recovery of Bromelain Solids from Industrial Pineapple Peel,
   Pulp, and Core Wastes Using Ethanolic Cashew Leaf Polyphenol
 doi: ""
 featured: false
-tags:
-  - STEM
+tags: []
 projects: []
 image:
   caption: ""
