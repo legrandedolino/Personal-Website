@@ -3,13 +3,12 @@ abstract: I will be presenting my paper entitled “Analysis of Philippine STEM
   Journals and Implications for High School Research During Remote Learning.”
 slides: ""
 url_pdf: ""
-summary: I am coordinating this regional competition for elementary students as
-  part of the Department of Science and Technology's celebration of the National
-  Science and Technology Week.
+summary: I will be presenting my paper entitled “Analysis of Philippine STEM
+  Journals and Implications for High School Research During Remote Learning.”
 title: 2nd DOST SEI Project STAR International Conference
 location: Online
-date: 2021-11-16T00:00:40.623Z
-date_end: 2021-11-18T09:00:00.000Z
+date: 2021-11-16T08:00:00.623Z
+date_end: 2021-11-18T17:00:00.000Z
 all_day: false
 event: 2nd DOST SEI Project STAR International Conference
 event_url: https://sei.dost.gov.ph
