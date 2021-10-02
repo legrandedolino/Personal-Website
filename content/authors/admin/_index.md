@@ -44,4 +44,4 @@ My undergraduate work in chemistry and graduate work in applied mathematics allo
 
 My primary interests are in the philosophy, history, and society studies of science education, primarily on how science education was, and could be, crafted. A common theme in my research interests is the student, particularly on how she navigates conceptions about herself, society, and actual STEM work, as a result of her STEM education.
 
-{{< icon name="cv" pack="ai" >}} Access my [curriculum vitae here](https://docs.google.com/document/d/1wVxoYxNQ41ar9_LzAVz-uJvxk8yQVJLMjegaMy4m41c/edit?usp=sharing).
+{{< icon name="cv" pack="ai" >}} Access my [curriculum vitae](https://docs.google.com/document/d/1wVxoYxNQ41ar9_LzAVz-uJvxk8yQVJLMjegaMy4m41c/edit?usp=sharing).
