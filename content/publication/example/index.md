@@ -39,10 +39,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00Z
+date: 2020-09-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
-2020
