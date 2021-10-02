@@ -34,7 +34,7 @@ experience:
         
   - title: Laboratory Research Assistant
     company: Ateneo de Davao University
-    company_url: 'https://addu.edu.ph'
+    company_url: 'https://www.addu.edu.ph/'
     company_logo: addu
     location: Davao
     date_start: '2016-10-01'
