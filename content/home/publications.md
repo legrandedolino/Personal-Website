@@ -1,4 +1,3 @@
----
 widget: featured
 headless: true
 
