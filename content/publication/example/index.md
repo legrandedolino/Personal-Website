@@ -25,7 +25,7 @@ publication: In *Philippine Journal of Science*
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: ""
+publication_short: In *Philippine Journal of Science*
 url_source: ""
 url_video: ""
 title: Low-cost Recovery of Bromelain Solids from Industrial Pineapple Peel,
@@ -41,7 +41,7 @@ image:
   preview_only: false
 date: 2020-09-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
