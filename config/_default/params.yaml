@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme: coffee
-day_night: false
+theme: earth
+day_night: true
 font: ''
 font_size: L
 
