@@ -17,7 +17,7 @@ social:
     link: https://scholar.google.com/citations?user=IcLYkigAAAAJ
 organizations:
   - name: Philippine Science High School
-    url: smc.pshs.edu.ph
+    url: https://smc.pshs.edu.ph
 education:
   courses:
     - course: Certificate in Professional Education
