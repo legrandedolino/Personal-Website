@@ -1,10 +1,10 @@
 ---
-abstract: I am coordinating this regional competition for elementary students as
+abstract: I coordinated a regional competition for elementary students as
   part of the Department of Science and Technology's celebration of the National
   Science and Technology Week.
 slides: ""
 url_pdf: ""
-summary: I am coordinating this regional competition for elementary students as part of the Department of Science and Technology's celebration of the National Science and Technology Week.
+summary: I coordinated this regional competition for elementary students as part of the Department of Science and Technology's celebration of the National Science and Technology Week.
 title: "NSTW Sci-Math Battle 2021: Region XI"
 location: Online
 date: 2021-10-28T13:00:00.000Z
