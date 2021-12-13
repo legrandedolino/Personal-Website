@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Le Grande O. Dolino # Website name
-baseurl: 'https://example.com/' # Website URL
+baseurl: 'legrandedolino.com' # Website URL
 copyright: '© 2021 Le Grande O. Dolino' # Footer text, e.g. '© {year} Me'
 
 ############################
