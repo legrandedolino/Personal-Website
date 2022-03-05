@@ -1,6 +1,6 @@
 ---
-abstract: I will be presenting my paper entitled “Analysis of Philippine STEM
-  Journals and Implications for High School Research During Remote Learning.”
+abstract: I presented my paper entitled “Analysis of Philippine STEM Journals
+  and Implications for High School Research During Remote Learning.”
 slides: ""
 url_pdf: ""
 summary: I will be presenting my paper entitled “Analysis of Philippine STEM
