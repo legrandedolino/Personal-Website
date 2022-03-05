@@ -4,7 +4,7 @@ headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Curriculum Vitae
-subtitle: Some links provided for further information. [Full document here](https://docs.google.com/document/d/1wVxoYxNQ41ar9_LzAVz-uJvxk8yQVJLMjegaMy4m41c/edit?usp=sharing) for mobile viewers.
+subtitle: Some links provided for further information.
 weight: 30  # section position on page
 #design:
   # Choose how many columns the section has. Valid values: 1 or 2.
