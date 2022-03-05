@@ -3,7 +3,7 @@ abstract: I presented my paper entitled “Analysis of Philippine STEM Journals
   and Implications for High School Research During Remote Learning.”
 slides: ""
 url_pdf: ""
-summary: I will be presenting my paper entitled “Analysis of Philippine STEM
+summary: I presented my paper entitled “Analysis of Philippine STEM
   Journals and Implications for High School Research During Remote Learning.”
 title: 2nd DOST SEI Project STAR International Conference
 location: Online
