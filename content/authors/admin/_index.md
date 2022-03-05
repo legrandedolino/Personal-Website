@@ -38,5 +38,3 @@ I am a chemistry and research teacher at Philippine Science High School Southern
 My undergraduate work in chemistry and graduate work in applied mathematics allow me to fill the niche of experimental design and analysis. A large aspect of my educational work involves improving outcomes of high school students in STEM research. I founded [Tanim Talino](http://tanimtalino.org) to bridge the gap in Filipino student preparedness for research, specifically as a response to the remote learning circumstances during the pandemic.
 
 Despite these professional pursuits, my primary research interests are in the history, philosophy, and society studies of science education, with a focus on how science education was, and could be, crafted. A common theme in my research interests is the student, particularly on how she navigates conceptions about herself, society, and actual STEM work, as a result of her STEM education.
-
-{{< icon name="cv" pack="ai" >}} Access my [curriculum vitae](https://docs.google.com/document/d/1wVxoYxNQ41ar9_LzAVz-uJvxk8yQVJLMjegaMy4m41c/edit?usp=sharing).
