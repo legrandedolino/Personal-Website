@@ -5,8 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include the history, philosophy, and social studies
   of science education, and actual science education practice.
 interests:
-  - history and philosophy of science education and STS
+  - history and philosophy of science education
   - affective aspects of science education
+  - learning analytics
   - participation and success in STEM research
 social:
   - icon: envelope
@@ -37,4 +38,4 @@ I am a chemistry and research teacher at Philippine Science High School Southern
 
 My undergraduate work in chemistry and graduate work in applied mathematics allow me to fill the niche of experimental design and analysis. A large aspect of my educational work involves improving outcomes of high school students in STEM research. I founded [Tanim Talino](http://tanimtalino.org) to bridge the gap in Filipino student preparedness for research, specifically as a response to the remote learning circumstances during the pandemic.
 
-Despite these professional pursuits, my primary research interests are in the history, philosophy, and society studies of science education, with a focus on how science education was, and could be, crafted. A common theme in my research interests is the student, particularly on how she navigates conceptions about herself, society, and actual STEM work, as a result of her STEM education.
+Despite these professional pursuits, my primary research interests are in the society studies and implementation of science education, with a focus on how science education was, and could be, crafted. A common theme in my research interests is the student, particularly on how she navigates conceptions about herself, society, and actual STEM work, as a result of her STEM education.
