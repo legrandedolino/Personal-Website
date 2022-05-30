@@ -1,5 +1,5 @@
 ---
-title: An example title
+title: Portfolio
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
 
@@ -14,4 +14,8 @@ header:
   image: ""
 ---
 
-Add your *content* here...
+[Sample Articulate lesson: The Chemistry of Adobo](https://legrandedolino.com/portfolio/story_html5.html)
+
+[Sample video lesson: Important Terms and Concepts in Experiments](https://youtu.be/FEe-6sJi2Ic)
+
+
