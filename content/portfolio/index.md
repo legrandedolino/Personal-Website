@@ -14,8 +14,8 @@ header:
   image: ""
 ---
 
-[Sample Articulate lesson: The Chemistry of Adobo](https://legrandedolino.com/portfolio/adobo/story.html)
+[Articulate lesson: The Chemistry of Adobo](https://legrandedolino.com/portfolio/adobo/story.html)
 
-[Sample video lesson: Important Terms and Concepts in Experiments](https://youtu.be/FEe-6sJi2Ic)
+[Video lesson: Important Terms and Concepts in Experiments](https://youtu.be/FEe-6sJi2Ic)
 
 
