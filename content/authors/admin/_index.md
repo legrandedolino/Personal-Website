@@ -16,9 +16,7 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=IcLYkigAAAAJ
-organizations:
-  - name: Philippine Science High School
-    url: https://smc.pshs.edu.ph
+organizations: []
 education:
   courses:
     - course: Certificate in Professional Education
