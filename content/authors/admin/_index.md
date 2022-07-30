@@ -1,6 +1,6 @@
 ---
 title: Le Grande O. Dolino
-role: Research Unit Head
+role: STEM Research Educator
 avatar_filename: avatar.jpg
 bio: My research interests include the history, philosophy, and social studies
   of science education, and actual science education practice.
@@ -34,7 +34,7 @@ email: legrande.dolino@gmail.com
 superuser: true
 highlight_name: true
 ---
-I am a chemistry and research teacher at Philippine Science High School Southern Mindanao Campus. As STEM teacher, I work to improve outcomes for student education in science through the development of instructional materials, methods and curricula, mentoring of students/teachers, and implementation of research.
+I am a chemistry and research teacher, recently having served Philippine Science High School Southern Mindanao Campus for four years. As STEM teacher, I work to improve outcomes for student education in science through the development of instructional materials, methods and curricula, mentoring of students/teachers, and implementation of research.
 
 My undergraduate work in chemistry and graduate work in applied mathematics allow me to fill the niche of experimental design and analysis. A large aspect of my educational work involves improving outcomes of high school students in STEM research. I founded [Tanim Talino](http://tanimtalino.org) to bridge the gap in Filipino student preparedness for research, specifically as a response to the remote learning circumstances during the pandemic.
 
